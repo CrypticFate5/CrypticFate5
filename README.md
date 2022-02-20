@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on GitHub
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypticfate5&theme=dracula)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticfate5)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticfate5&show_icons=true&theme=dracula)
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=crypticfate5&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
