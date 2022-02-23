@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CrypticFate5
 - 👀 I’m interested in Programming and InfoSec
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on GitHub
+- 💞️ I’m looking to collaborate on GitHub and Twitter!!
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypticfate5&theme=tokyonight_duo)](https://git.io/streak-stats)
