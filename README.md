@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrypticFate5
-- 👀 I’m interested in Programming and InfoSec
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on GitHub and Twitter!!
 
