@@ -10,7 +10,24 @@
   <img  src="https://forthebadge.com/images/badges/powered-by-overtime.svg" />
 </a>
 </p>
-<!-- <p align="center"><b>Peek on my stats</b>🤨</p> -->
+<p align="center"></p>
+<p align="center">
+  <img  src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
+</a>
+</p>
+<p align="center">
+  <b>🌟Take a look at my some popular repos</b><br>
+  <a href="https://github.com/CrypticFate5/REC-Data-Structures-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- Data Structures</a>
+  <br>
+  <a href="https://github.com/CrypticFate5/REC-Python-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- Python</a>
+  <br>
+  <a href="https://github.com/CrypticFate5/REC--Sem1-PUC--Digital-Cafe" target="_blank">REC Digital Cafe- PUC</a>
+</p>
+  
+<p align="center">
+  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+</p>
 <p align="center">
   <a href="https://git.io/streak-stats">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=crypticfate5&theme=ads-juicy-fresh" />
@@ -25,9 +42,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crypticfate5&theme=github_dark" />
 </a>    
 </p>
-<p>
-<!-- ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg) -->
-</p>
+<p></p>
 
  <br></br>
 <p align="center"><b>Just jokin'</b>😂</p>
