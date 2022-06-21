@@ -8,8 +8,17 @@
 <p align="center">
   <a href="https://forthebadge.com">
   <img  src="https://forthebadge.com/images/badges/powered-by-overtime.svg" />
+  
 </a>
 </p>
+  <p align="center"><b>👇Feel free to reach me at👇</b></p>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#compose target="_blank"">
+  <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="https://twitter.com/cryptic_fate5 target="_blank"">
+  <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+
 <hr></hr>
 
 
@@ -50,7 +59,15 @@
 
 
 <hr></hr>
+<p><b>Better than notepad😶‍🌫️</b></p>
 
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+
+
+<hr></hr>
 <p><b>Would love to learn🥸</b></p>
 
 ![](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
