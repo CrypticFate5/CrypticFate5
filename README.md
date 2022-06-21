@@ -10,11 +10,15 @@
   <img  src="https://forthebadge.com/images/badges/powered-by-overtime.svg" />
 </a>
 </p>
+<hr></hr>
+
+
 <p align="center"></p>
 <p align="center">
   <img  src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
 </a>
 </p>
+
 <p align="center">
   <b>🌟Take a look at my some popular repos</b><br>
   <a href="https://github.com/CrypticFate5/REC-Data-Structures-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- Data Structures</a>
@@ -23,7 +27,62 @@
   <br>
   <a href="https://github.com/CrypticFate5/REC--Sem1-PUC--Digital-Cafe" target="_blank">REC Digital Cafe- PUC</a>
 </p>
-  
+<hr></hr>
+<p align="center"><b>Just jokin'</b>😂</p>
+<p align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" width=350  alt="Please refresh the page if the meme doesn't show up.">
+</p>
+<hr></hr>
+<p><b>Literate in😐</b></p>
+
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+<!-- ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) -->
+
+<hr></hr>
+<p><b>Takin' a dive into🤽</b></p>
+
+![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+<hr></hr>
+
+<p><b>Would love to learn🥸</b></p>
+
+![](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
+![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<hr></hr>
+
+<p><b>My number cruncher💻</b></p>
+
+![](https://img.shields.io/badge/Lenovo-E2231A.svg?style=for-the-badge&logo=Lenovo&logoColor=white)
+![](https://img.shields.io/badge/AMD-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
+<hr></hr>
+
+<p><b>😌</b></p>
+
+![](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+![](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
+![](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![](https://img.shields.io/badge/Meta-0467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
+
+<hr></hr>
+
 <p align="center">
   <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
@@ -45,10 +104,7 @@
 <p></p>
 
  <br></br>
-<p align="center"><b>Just jokin'</b>😂</p>
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" width=350  alt="Please refresh the page if the meme doesn't show up.">
-</p>
+
 <p align="center">
   <a href="(https://forthebadge.com)">
   <img  src="https://forthebadge.com/images/badges/built-with-love.svg" />
