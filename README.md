@@ -4,7 +4,6 @@
 </a>
 </p>
 
-
 <p align="center">
   <a href="https://forthebadge.com">
   <img  src="https://forthebadge.com/images/badges/powered-by-overtime.svg" />
@@ -15,13 +14,18 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?to=satya05112003@gmail.com&su=Hey&fs=1&tf=cm" target="_blank">
   <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  <a href="https://twitter.com/cryptic_fate5 " target="_blank">
-  <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<!--   <a href="https://twitter.com/cryptic_fate5 " target="_blank">
+  <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> -->
+
+            
+   <a href="https://www.linkedin.com/in/satyanarayanaa" target="_blank">
+  <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 
 <hr></hr>
 
-
+<!--  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satyanarayanaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satyanarayanaa?trk=profile-badge">A Satyanarayana</a></div> -->
 <p align="center"></p>
 <p align="center">
   <img  src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
