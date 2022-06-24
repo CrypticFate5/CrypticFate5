@@ -14,8 +14,8 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?to=satya05112003@gmail.com&su=Hey&fs=1&tf=cm" target="_blank">
   <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-<!--   <a href="https://twitter.com/cryptic_fate5 " target="_blank">
-  <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> -->
+  <a href="https://twitter.com/cryptic_fate5 " target="_blank">
+  <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 
             
    <a href="https://www.linkedin.com/in/satyanarayanaa" target="_blank">
