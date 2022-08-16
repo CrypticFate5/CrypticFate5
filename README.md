@@ -119,7 +119,8 @@
 <p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypticfate5&theme=github_dark" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crypticfate5&theme=github_dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticfate5&hide=javascript,css,scss,html&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crypticfate5&theme=github_dark" />
 </a>    
 </p>
