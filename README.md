@@ -16,8 +16,6 @@
   <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   <a href="https://twitter.com/cryptic_fate5 " target="_blank">
   <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-
-            
    <a href="https://www.linkedin.com/in/satyanarayanaa" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
@@ -28,12 +26,17 @@
 <!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satyanarayanaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satyanarayanaa?trk=profile-badge">A Satyanarayana</a></div> -->
 <p align="center"></p>
 <p align="center">
+  <img  src="cryptic-fate5.svg" />
+</p>
+<p align="center">
   <img  src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
   <b>🌟Take a look at my some popular repos</b><br>
+  <a href="https://github.com/CrypticFate5/REC-Design-and-Analysis-of-Algorithm-DAA-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- DAA-Design and Analysis of Algorithm</a>
+  <br>
   <a href="https://github.com/CrypticFate5/REC-Data-Structures-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- Data Structures</a>
   <br>
   <a href="https://github.com/CrypticFate5/REC-Python-Digital-Cafe/blob/main/README.md" target="_blank">REC Digital Cafe- Python</a>
