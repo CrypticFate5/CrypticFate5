@@ -22,7 +22,7 @@
 
 <hr></hr>
 
-<!-- axdjdswfdjjoacasdwshkhjkjbxfgfkjkahjdifdaajaj<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+<!-- axdjdswfdjjoacasdwshkhnnljkjbxfgfkjkahjdifdaajaj<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 <!-- <div class="badgedssd-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satyanarayanaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satyanarayanaa?trk=profile-badge">A Satyanarayana</a></div> -->
 <p align="center"></p>
 <p align="center">
