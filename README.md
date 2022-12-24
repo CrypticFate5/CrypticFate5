@@ -57,7 +57,7 @@
 ![](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![](https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 ![](htt//img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-<!-- ![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-thse-badge&logo=HTML5&logoColor=white) -->
 
 <hr></hr>
 <p><b>Takin' a dive into🤽</b></p>
